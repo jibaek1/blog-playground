@@ -1,0 +1,6 @@
+server:
+  servlet:
+    encoding:
+      charset: urf-8
+      force: true
+  port: 5000
